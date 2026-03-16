@@ -165,3 +165,179 @@ Cuando ocurra, se actualizará la fecha de la política.
 Si tienes dudas sobre esta política de privacidad puedes contactarnos en:
 
 📧 **contacto@rafabarajas.com**
+
+---
+
+# Privacy Policy – Bugeo App
+
+Last updated: March 16, 2026
+
+Welcome to **Bugeo App**. Your privacy and transparency in how your data is handled are important to us. This Privacy Policy explains how we collect, use and protect information in our mobile application designed for managing 3D printing workshops.
+
+By using Bugeo App, you agree to the practices described in this document.
+
+---
+
+# 1. Data Controller
+
+The controller responsible for processing personal data collected through this application is:
+
+Name: Rafael Lopez Barajas  
+Contact email: contacto@rafabarajas.com  
+Country / Jurisdiction: Mexico
+
+---
+
+# 2. Information We Collect
+
+For the operation of the application, we only collect the following personal information:
+
+### Identification and access data
+
+Your email address and login credentials when you sign in to an account previously provisioned externally by our systems.
+
+### Subscription and purchase information
+
+Data related to the status of your subscription (active/inactive) and purchase history processed through application stores.
+
+---
+
+# 3. Information We DO NOT Collect
+
+Bugeo App maintains a strict commitment to privacy. We do not collect, view, or store on external servers the following information:
+
+- Operational data from your workshop (clients, projects or printing files)
+- Estimates, quotes or cost calculations
+- Product inventory or printer technical configurations
+- Usage data through analytics tools
+
+We also do not track your location or access your contacts.
+
+---
+
+# 4. Purpose of Data Processing
+
+We use the collected information exclusively to:
+
+- Allow user login and identification
+- Validate whether your account has access to Premium features
+- Manage in-app purchases and subscription functionality
+- Provide technical support related to your account
+
+---
+
+# 5. Login and Premium Validation
+
+The application uses your email address as a unique account identifier. This data is sent to our servers solely to verify your identity and confirm whether you have permission to access advanced application features.
+
+Access to the application is only available for accounts provisioned externally.
+
+---
+
+# 6. Purchases and Subscriptions
+
+Bugeo App may offer in-app purchases or subscriptions.
+
+All payments are processed directly by:
+
+- Apple App Store
+- Google Play Store
+
+We do not have access to your banking information or credit card details.
+
+We only receive confirmation from the platform when a purchase has been completed.
+
+---
+
+# 7. Local Storage (Privacy by Design)
+
+Most operational information within the application is stored locally on your device.
+
+This includes:
+
+- Clients
+- Products
+- Estimates
+- Work configurations
+
+This means:
+
+- You retain full control over your data.
+- If you delete the application or device data without backup, the information may be lost.
+
+The application does not synchronize this operational data with external servers.
+
+---
+
+# 8. Data Sharing with Third Parties
+
+We do not sell or share your personal data with third parties for commercial purposes.
+
+Information may only be shared in the following cases:
+
+### Platform providers
+
+Apple or Google to process payments.
+
+### Legal obligations
+
+If a competent authority requests it through a valid legal order.
+
+---
+
+# 9. Data Retention
+
+We retain your email address and account data while your profile remains active.
+
+If you request account deletion:
+
+- Your account data will be removed from our authentication systems.
+- We will not retain personally identifiable information afterwards.
+
+---
+
+# 10. Security
+
+We implement reasonable technical measures to protect your authentication information.
+
+However, since operational information is stored on your device, the security of that data also depends on the protection measures used on your device (passwords, biometrics, etc.).
+
+---
+
+# 11. User Rights
+
+You have the right to:
+
+- Access your data
+- Request corrections
+- Request deletion of your account
+
+Account deletion can also be performed directly within the application.
+
+You may also contact us at:
+
+contacto@rafabarajas.com
+
+---
+
+# 12. Children's Privacy
+
+Bugeo App is not intended for children under 13 years of age (or the minimum legal age in your country).
+
+We do not knowingly collect personal information from minors.
+
+---
+
+# 13. Changes to This Policy
+
+We may update this policy occasionally to reflect changes in the application or legal requirements.
+
+When this occurs, the update date at the top of this document will be modified.
+
+---
+
+# 14. Contact
+
+If you have questions about this privacy policy you can contact us at:
+
+contacto@rafabarajas.com
