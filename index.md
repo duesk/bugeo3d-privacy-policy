@@ -136,6 +136,8 @@ Tienes derecho a:
 - Acceder a tus datos
 - Solicitar correcciones
 - Solicitar la eliminación de tu cuenta
+  
+La eliminación de cuenta también puede realizarse directamente desde la aplicación.
 
 Puedes hacerlo escribiendo a:
 
